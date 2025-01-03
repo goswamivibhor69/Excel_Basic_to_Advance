@@ -1,0 +1,6 @@
+1 - So final data is in 18_Combined_file
+2 - Now when I add new year file to my folder, it will automatically clean that data, I just have to refresh the file and my latest data will be combined with it and will show me. 
+
+
+
+3 - Source Video - https://youtu.be/0aeZX1l4JT4 (Kevin Stratvert - How to use MS Power Query)
